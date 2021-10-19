@@ -503,6 +503,7 @@ input, select, textarea {
 
 		#header p {
 			font-size: 2.25em;
+			font-weight: 400;
 			margin: 0.75em 0 0.25em 0;
 		}
 
